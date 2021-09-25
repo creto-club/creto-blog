@@ -187,24 +187,10 @@
     
     
         <url>
-            <loc>https://blog.creto.club//welcome-to-the-desert-of-the-real/2/</loc>
+            <loc>https://blog.creto.club//welcome-to-the-creto-blog/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2019-05-17</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://blog.creto.club//welcome-to-the-desert-of-the-real/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2019-05-17</lastmod>
-        </url>
-    
-        <url>
-            <loc>https://blog.creto.club//welcome-to-the-desert-of-the-real/view-all/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2019-05-17</lastmod>
+            <lastmod>2021-09-23</lastmod>
         </url>
     
         <url>
