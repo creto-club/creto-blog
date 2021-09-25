@@ -1,0 +1,25 @@
+name: Creto
+title: Creto | D2C Marketing Strategies
+description: The best marketing and growth strategies for D2C brands.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  # - title: Feed
+  #   url: /feed.xml
+email: contact@creto.club
+# See: https://disqus.com/
+#disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: moqyrbpp
