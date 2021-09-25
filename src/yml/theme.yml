@@ -2,6 +2,7 @@ themeColor: '#1de9b6'
 primaryDark: '#ffffff'
 accentDark: '#141414'
 lightGray: '#353535'
+darkGray: '#f2f2f2'
 texts: '#333333'
 
 # themeColor: '#ff0a16'

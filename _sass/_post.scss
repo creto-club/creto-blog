@@ -166,7 +166,7 @@
   }
 
   a {
-    color: $themeColor;
+    color: $accentDark;
     text-decoration: none;
 
     &:hover {
@@ -434,8 +434,8 @@
   position: fixed;
   left: 0;
   right: 0;
-  top: rem(45px);
-  bottom: auto;
+  // top: rem(45px);
+  bottom: 0;
   display: block;
   width: 100%;
   // padding: rem(10px) rem(20px) rem(5px);
@@ -444,7 +444,7 @@
 
   @include media(">=sm") {
     // padding: rem(16px) rem(20px) rem(9px);
-    padding: rem(10px) rem(0px) rem(0px);
+    padding: rem(0px) rem(0px) rem(0px);
   }
 
   .bar {
@@ -461,14 +461,14 @@
   .completed {
     float: left;
     display: block;
-    height: rem(5px);
+    height: rem(7px);
     background-color: $themeColor;
   }
 
   .remaining {
     float: left;
     display: block;
-    height: rem(5px);
+    height: rem(7px);
     background-color: #ccc;
   }
 
@@ -637,9 +637,9 @@
 
     a {
       font-size: rem(14px);
-      color: $primaryDark;
+      color: $accentDark;
       display: inline-block;
-      border: 1px solid $primaryDark;
+      border: 1px solid $accentDark;
       border-radius: rem(20px);
       padding: 0 rem(10px);
       margin-right: rem(2px);
@@ -651,8 +651,8 @@
       }
 
       &:hover {
-        color: $accentDark;
-        background-color: $primaryDark;
+        color: $primaryDark;
+        background-color: $accentDark;
       }
     }
   }
@@ -666,7 +666,7 @@
 
     span {
       padding: rem(3px) rem(10px);
-      background-color: $themeColor;
+      background-color: $accentDark;
       border-radius: rem(5px);
       color: #fff;
     }

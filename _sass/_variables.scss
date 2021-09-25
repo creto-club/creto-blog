@@ -6,6 +6,7 @@ $themeColor: map-get($theme, themeColor) !default;
 $primaryDark: map-get($theme, primaryDark) !default;
 $accentDark: map-get($theme, accentDark) !default;
 $lightGray: map-get($theme, lightGray) !default;
+$darkGray: map-get($theme, darkGray) !default;
 $texts: map-get($theme, texts) !default;
 
 // Breakpoints
@@ -15,10 +16,10 @@ $breakpoints: (
 
 // Margins
 $rowMargin: 10px;
-$itemMargin: 15px;
+$itemMargin: 25px;
 
 // Sizes
 $itemMinWidth: 300px;
 
 // Settings
-$maxItemsPerRow: 6;
+$maxItemsPerRow: 4;

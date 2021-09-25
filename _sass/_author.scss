@@ -1,5 +1,5 @@
 .author {
-  background: $lightGray;
+  background: $darkGray;
   display: table;
   width: 100%;
   padding: rem(40px) 0;
@@ -25,7 +25,7 @@
   }
 
   a {
-    fill: darken($lightGray, 30%);
+    fill: darken($darkGray, 30%);
     text-decoration: none;
     border: none;
     transition: all 0.3s;
