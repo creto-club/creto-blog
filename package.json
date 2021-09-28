@@ -1,12 +1,12 @@
 {
-  "name": "jekflix-template",
-  "version": "3.1.1",
-  "description": "A Jekyll theme inspired by Netflix",
+  "name": "creto-blog",
+  "version": "0.1.1",
+  "description": "A marketing blog dedicated for D2C consumer brands.",
   "main": "gulpfile.js",
-  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
+  "homepage": "https://blog.creto.club",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagorossener/jekflix-template.git"
+    "url": "https://github.com/creto-club/creto-blog.git"
   },
   "keywords": [
     "jekyll",
@@ -15,10 +15,10 @@
     "blog",
     "netlify"
   ],
-  "author": "Thiago Rossener",
+  "author": "Rohit Bhaskarr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thiagorossener/jekflix-template/issues"
+    "url": "https://github.com/creto-club/creto-blog/issues"
   },
   "devDependencies": {
     "browser-sync": "^2.27.5",

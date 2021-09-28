@@ -17,7 +17,7 @@ author: rohitbhaskar
 paginate: false
 ---
 
-**Digital marketing is hard**. Social, search, paid, influencers, referrals and a tons of other stuff to stay upto date with constantly. What's even harder is doing digital marketing well enough to build a successful brand.
+**Digital marketing is hard**. Social, search, paid, influencers, referrals and a ton of other stuff to stay upto date with constantly. What's even harder is doing digital marketing well enough to build a successful brand.
 
 We're building out this blog because there is a real lack of structured marketing content built specifically for consumer brands.
 
@@ -27,13 +27,14 @@ We're building out this blog because there is a real lack of structured marketin
 ## About Me
 ... dramatic music plays ...
 
-I'm an engineer turned digital marketer, for a sports brand in Mumbai. I have had the good fortune to be mentored directly by my co-founder who is himself amazing at marketing.
+I'm an engineer turned digital marketer for a sports brand in Mumbai. I have had the good fortune to be mentored directly by my co-founder who is amazing at marketing.
 
-I began my journey, as most people do, with a ton of learning. Blogs. Articles. Youtube videos. You name it. However the biggest challenge was staying upto date with the whole ecosystem. But with new strategies and new tools being launched everyday, this is by no means an easy feat.
+I began my journey, as most people do, with tons of learning. Blogs. Articles. Youtube videos. You name it. The biggest challenge was staying upto date with the whole ecosystem. But with new strategies and new tools being launched everyday, this is by no means an easy feat.
 
 I needed a constant source of information. Something to help me stay upto date with D2C marketing... I never found it.
 
-And this is exactly what I want to solve for the marketers that are building **India's future $100 billion D2C market**.
+And this is exactly what I want to solve for the marketers that are building
+[India's future $100 billion D2C market](https://inc42.com/reports/decoding-indias-100-bn-d2c-opportunity-market-landscape-and-trends-report-2021/).
 
 
 ## So What's This Blog About?
@@ -44,7 +45,7 @@ We will cover everything from Facebook Ads to emails. And even breakdown PPC, SM
 Brands also needs different strategies at different times. Something that works for a huge brand may not work out for a younger one. We'll provide you with different strategies based on scale to help you grow sustainably.
 
 
-## What Will I Get?
+## What Will You Get?
 
 We want to help you scale up! Which is why we will:
 - Explain deep marketing concepts
@@ -53,4 +54,12 @@ We want to help you scale up! Which is why we will:
 - Give you examples on how other brands executed certain marketing strategies
 - Give you insights from experts and the best minds in the D2C industry
 
-We strongly believe in 'Growing Together' 
+We strongly believe in 'Growing Together'. Which is why we're building India's biggest community of digital marketers and consumer brands.
+
+
+## Sounds Good! So What's Next
+
+Subscribe by dropping in your email id below:
+
+
+Or follow us on [LinkedIn](https://www.linkedin.com/company/creto-club) or [Twitter](https://twitter.com/creto_club) to get the latest in marketing for consumer brands!
