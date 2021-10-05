@@ -98,11 +98,11 @@ People love sharing stories, they like talking about their experiences and the c
 
 > I am going to geek out a bit, [Adafruit](https://learn.adafruit.com/) is hands on the best company at generating revenue from user communities. Ok so for anyone who dont know what Adafruit is, it company that build electronic boards for people to build DIY projects. The community definitely get crazy when doing so, you have people making a [Microsoft Teams Mute Button](https://learn.adafruit.com/TeamsMuteButton) (which basically is a huge push button to mute yourself on teams) and more cool projects. Now this excites the customers to try on new projects and the Adafruit team give them components that you can add to the cart to build the project. It is that simple! make something cool :sunglasses:, show it off and the customers how they can do it. 
 
-[Adafruit](https://res.cloudinary.com/creto-club/image/upload/v1633405879/blog_images/post_21-10-07_increase-customer-revenue-d2c-brands_adafruit_orzbeu.jpg)
+![Adafruit](https://res.cloudinary.com/creto-club/image/upload/v1633405879/blog_images/post_21-10-07_increase-customer-revenue-d2c-brands_adafruit_orzbeu.jpg)
 
 There is an untapped potential for D2C brands to increase revenue from their existing customers. 
 
-Try out the above suggestions, and you will defnitely be able to see revenue per customer rise! If you want me to write more about any of the above techniques or just D2C marketing in general you can hit me up on my *[dhruv@creto.club](dhruv@creto.club)* or just add a message on the bottom of the page.
+Try out the above suggestions, and you will defnitely be able to see revenue per customer rise! If you want me to write more about any of the above techniques or just D2C marketing in general you can hit me up on my *[dhruv@creto.club](dhruv@creto.club)* or follow us on [LinkedIn](https://www.linkedin.com/company/creto-club) or [Twitter](https://twitter.com/creto_club) to get the latest in marketing for consumer brands!
 
 Stay safe :v:
 
