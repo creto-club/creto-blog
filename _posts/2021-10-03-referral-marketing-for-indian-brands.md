@@ -16,13 +16,19 @@ tags:
 author: rohitbhaskar
 paginate: false
 ---
+> ### Table Of Contents
+1. [Provide exceptional customer service](#tip-1-provide-exceptional-customer-service)
+2. [Make your products and packaging shareable](#tip-2-make-your-products-and-packaging-shareable)
+3. [Reward your referrers well](#tip-3-reward-your-referrers-well)
+4. [Make the program easy to access](#tip-4-make-the-program-easy-to-access)
+5. [Analyze & A/B test](#tip-5-analyze-and-ab-test)
 
 If you're running a brand in India or are in the marketing team of one, you've definitely heard of referral marketing.
 
 With the sheer amount of digital noise and the number of brands that consumers are exposed to how do you make sure that your referral campaign works? *Today we'll go over 5 very actionable tips crafted just for Indian brands. (P.S. number 4 is my favourite!)*
 
 Before we dive into the 5 points however, there is just one thing to keep in mind. Referral marketing is solely based on 1 underlying factor and 1 factor alone, and that is trust. **Your customers will only share about you if they trust your brand and products**. So! Let's cut the fluff and jump right in.
-
+<br>
 ## Tip 1: Provide exceptional customer service
 This is the most important and usually the most overlooked. As I mentioned, the heart of referral marketing is trust. Unless customers trust & love your brand, it's unlikely that they'll refer anyone. Put yourself in their shoes. Would you ask your best friend to buy from a brand you've had a poor experience with? Hardly likely (unless you actually hate him!).
 
@@ -35,7 +41,7 @@ They go out of their way to make sure each customer has an incredible experience
 
 If you've had experiences like this wouldn't you tell your friends about it? I sure as heck would!
 
-
+<br>
 ## Tip 2: Make your product shareable
 People love to share cool stuff because they feel it makes them look cool. It's that simple. (Not really... There is a complete branch of psychology that focuses on something called social currency. Basically what makes people share things)
 
@@ -52,7 +58,7 @@ Shopify has some great tips for product packaging which you cnan read in [their 
 
 Take the time to craft a great packaging and unboxing experience. The more memorable you make it for your customers the more it'll be shared. It's that simple!
 
-
+<br>
 ## Tip 3: Reward your referrers well
 Make sure that the rewards you provide for the referral are really worth your customer's time and efforts. Be generous and your referrers will too!
 
@@ -68,8 +74,8 @@ So remember to be generous while offering discounts and cashbacks to referrers a
 
 An even smarter way of going about it might be to offer dynamic discounts based on the social media following of your customers. We'll go over that in a future post 😉
 
-
-## Tip 4: Make the program easy to access.
+<br>
+## Tip 4: Make the program easy to access
 
 It's a well-researched fact that most humans are a little lazy by nature. The easier a task is, the greater the chance that people will do it.
 
@@ -83,14 +89,15 @@ The current off-the-shelf tools available, like ReferralCandy, have their limita
 
 **We're trying to fix just this! [Check out our website](https://creto.club/ld/affiliate-brand) to take a look at what we're up to, if you want to improve your referral program.**
 
-
+<br>
 ## Tip 5: Analyze and A/B test
 This is something that most brands don't do!
 
-The biggest advantage of being a digital-first brand is that you can analyze, test & optimize your conversion funnel. **The biggest mistake brands make is that they plan a referral campaign and then just leave it as it is for years.**
+The biggest advantage of being a digital-first brand is that you can analyze, test & optimize your conversion funnel. **The biggest mistake brands make is that they plan a referral campaign and then just leave it as it is for months or even years.**
 
 Instead, you should analyze how the campaign is going, which channels people are using the most to share about you, what discount amounts work best, etc. And then A/B test the messaging to see what converts the most (An A/B test is a way to test 2 or more different options to understand which is better. Don't worry, we'll go into the details in another post).
 
+<br>
 # TL;DR
 1. Provide exceptional customer service
 2. Make your products and packaging shareable
@@ -98,6 +105,7 @@ Instead, you should analyze how the campaign is going, which channels people are
 4. Make the program easy to access for your customers
 5. Analyze & A/B test the referral campaign and messaging
 
+<br>
 ## So, what's next
 If you had any questions or needed personalized tips on how to improve your referral program, just drop me a link to your website on rohit@creto.club and I'll do what I can to help.
 
