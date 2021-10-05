@@ -1,12 +1,12 @@
 ---
-date: 2021-10-04T09:48:00.000Z
+date: 2021-10-07T09:48:00.000Z
 layout: post
 title: 'Revenue growth for D2C brands: 5 ways to increase revenue from your existing customers'
 subtitle: 'Simple yet actionable tips to get your customers to refer you.'
 description: >-
   5 simple ways to increase reveneue for your D2C brand from existing customers
 image: >-
-  /assets/img/posts/post_21-10-04_increase-customer-revenue-d2c-brands_full.jpg
+  /assets/img/posts/post_21-10-07_increase-customer-revenue-d2c-brands_full.jpg
 # optimized_image: >-
 #   /assets/img/posts/post_21-10-03_referral-marketing-for-indian-brands_optimized.jpg
 category: blog
@@ -30,7 +30,8 @@ Upselling is a practice widely used in many industries with the intention to get
 
 This is what your favorite airline does when you book flights! Let's say you're going to fly 5 hours and you plan to choose economy which just gets you a seat allocated by an algorithm with one cabin luggage, whereas the website says that you can upgrade to economy plus which will cost you another Rs 2500. Now the economy plus has options for seats with extra legroom or window to choose from, 2 cabin luggage and complimentary snacks. Upselling make these extra perks **feel a necessity rather than add-ons**. I have definitely been tempted to get the extra leg space :P. 
 
-### Image
+![Buying tickets from Ethiad](https://res.cloudinary.com/creto-club/image/upload/v1633405879/blog_images/post_21-10-07_increase-customer-revenue-d2c-brands_airlines_ojokvs.jpg)
+
 
 Let's try to upsell smaller prodcuts like Shirts!
 
@@ -52,7 +53,8 @@ Cross selling simply put is to complementary offer services or products to satis
 
 >When I think of my personal experience with Apple to buy an iPad. This how my journey looks like while checking out the iPad. I select the color of my iPad, memory for my iPad and wait what! I can also get **Apple Pencil and Smart Keyboard for a bundle at 20% off**. Well played Apple, I did end up with the bundle :)
 
-### Image
+![Buying an iPad](https://res.cloudinary.com/creto-club/image/upload/v1633405879/blog_images/post_21-10-07_increase-customer-revenue-d2c-brands_ipad_hewcht.jpg)
+
 
 Hmm, but you are not Apple and you don't necessarily sell consumer tech. It still is easily transferable. We can try it with something as coffee. What can you possibly cross-sell with it!?
 
@@ -81,6 +83,8 @@ Referral marketing is known to generate high ROI and high quality leads
 
 *Reach 150 stars and get a free coffee!* If you are a coffee enthusiast, you know what's going on. This is the Starbucks rewards app! Starbucks maybe a global brand but to me one of the best things is you get the same consistently good coffee anywhere go and Starbucks have made sure to leverage this. Starbucks provides rewards (stars) to any customer who purchase their coffee through their app and hold special events to earn extra stars such as buying cold coffee for 3 consecutive days (60 stars). You have to buy 5-8 coffees easily to get a free one :/
 
+![Starbucks](https://res.cloudinary.com/creto-club/image/upload/v1633405879/blog_images/post_21-10-07_increase-customer-revenue-d2c-brands_starbucks_mezcgz.jpg)
+
 The incentive is much smaller than the easy **6-10x ROI**. Depending on the product you can structure your loyalty program to get users make repeat purchases. 
 
 *I don't have the scale to build an app!*
@@ -93,6 +97,8 @@ The incentive is much smaller than the easy **6-10x ROI**. Depending on the prod
 People love sharing stories, they like talking about their experiences and the community is an amazing place to discuss about the products they love. Communities promote loyalty! Sharing mission statements and goals that resonate with your customer-base get people excited not just about the product but also your brand.This is an indirect way of having higher revenue potential from your customers becuase of lower churn/turnover. But communities are not only for feedbacks, discussing issues, goals but also a place to showcase the potential of your products. 
 
 > I am going to geek out a bit, [Adafruit](https://learn.adafruit.com/) is hands on the best company at generating revenue from user communities. Ok so for anyone who dont know what Adafruit is, it company that build electronic boards for people to build DIY projects. The community definitely get crazy when doing so, you have people making a [Microsoft Teams Mute Button](https://learn.adafruit.com/TeamsMuteButton) (which basically is a huge push button to mute yourself on teams) and more cool projects. Now this excites the customers to try on new projects and the Adafruit team give them components that you can add to the cart to build the project. It is that simple! make something cool :sunglasses:, show it off and the customers how they can do it. 
+
+[Adafruit](https://res.cloudinary.com/creto-club/image/upload/v1633405879/blog_images/post_21-10-07_increase-customer-revenue-d2c-brands_adafruit_orzbeu.jpg)
 
 There is an untapped potential for D2C brands to increase revenue from their existing customers. 
 
