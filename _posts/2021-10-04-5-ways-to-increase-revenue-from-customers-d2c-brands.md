@@ -1,7 +1,7 @@
 ---
 date: 2021-10-04T09:48:00.000Z
 layout: post
-title: 'Revenue growth for D2C brands: 5 ways to increase revenue from your existing customers'
+title: '5 ways to increase revenue from your existing customers: D2C Brands'
 subtitle: 'Simple yet actionable tips to get your customers to refer you.'
 description: >-
   5 simple ways to increase reveneue for your D2C brand from existing customers

@@ -1,7 +1,7 @@
 ---
 date: 2021-10-03T09:48:05.000Z
 layout: post
-title: 'Referral marketing for Indian brands: 5 ways to make your e-commerce referral program stand out'
+title: '5 ways to make your e-commerce referral marketing program stand out in India'
 subtitle: 'Simple yet actionable tips to get your customers to refer you.'
 description: >-
   5 referral marketing tips for Indian brands 
