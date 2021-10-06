@@ -20,9 +20,8 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
 
 <img class="img-rounded" src="/assets/img/uploads/author_rohit.png" title="Rohit Bhaskar" width="200"> *Growth Hacker and Marketing Wiz. More famously known as the engineer who runs the marketing dept*
 
-<img class="img-rounded" src="/assets/img/uploads/author_tanay.png" title="Tanay Shah" width="200"> *Our ML guru. He can smell trends... vectors away*
+<img class="img-rounded" src="/assets/img/uploads/author_tanay.jpg" title="Tanay Shah" width="200"> *Our ML guru. He can smell trends... vectors away*
 
-<img class="img-rounded" src="/assets/img/uploads/author_dhruv.png" title="Dhruv Turakhia" width="200"> *Design, UX Obsession and everything in between. He also likes ramen*
+<img class="img-rounded" src="/assets/img/uploads/author_dhruv.jpg" title="Dhruv Turakhia" width="200"> *Design, UX Obsession and everything in between. He also likes ramen*
 
-<img class="img-rounded" src="/assets/img/uploads/author_himanshu.png" title="Rohit Bhaskar" width="200"> *The Tech Wonder, he can develop and deploy your app in…. Oh it’s already deployed. :D*
-
+<img class="img-rounded" src="/assets/img/uploads/author_himanshu.jpg" title="Rohit Bhaskar" width="200"> *The Tech Wonder, he can develop and deploy your app in…. Oh it’s already deployed. :D*
