@@ -18,7 +18,7 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
 
 ### The Team
 
-<div style="display: flex; align-items"><img class="img-rounded" src="/assets/img/uploads/author_rohit.png" title="Rohit Bhaskar" width="200"> <p style="align-text: center">Growth Hacker and Marketing Wiz. More famously known as the engineer who runs the marketing dept</p></div>
+<div style="display: flex; flex-direction: row; align-items: center"><img class="img-rounded" src="/assets/img/uploads/author_rohit.png" title="Rohit Bhaskar" width="200"> <p style="align-text: center">Growth Hacker and Marketing Wiz. More famously known as the engineer who runs the marketing dept</p></div>
 
 <img class="img-rounded" src="/assets/img/uploads/author_tanay.jpg" title="Tanay Shah" width="200"> *Our ML guru. He can smell trends... vectors away*
 
