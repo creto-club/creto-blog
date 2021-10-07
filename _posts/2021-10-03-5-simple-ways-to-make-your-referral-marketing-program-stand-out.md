@@ -13,7 +13,7 @@ category: blog
 tags:
   - post purchase
   - referral marketing
-author: rohitbhaskar
+author: rohit-bhaskar
 paginate: false
 ---
 > ### Table Of Contents

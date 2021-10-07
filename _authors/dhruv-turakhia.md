@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/author_dhruv.jpg
-name: dhruvturakhia
+name: dhruv-turakhia
 display_name: Dhruv Turakhia
 position: CXO & Lead Designer
 bio: Design, UX Obsession and everything in between. He also likes ramen

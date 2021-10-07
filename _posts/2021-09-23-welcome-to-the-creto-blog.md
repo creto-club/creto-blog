@@ -13,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: rohitbhaskar
+author: rohit-bhaskar
 paginate: false
 ---
 

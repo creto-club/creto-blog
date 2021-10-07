@@ -1,8 +1,8 @@
 ---
 layout: author
-photo: /assets/img/uploads/author_rohit.png
-name: rohitbhaskar
-display_name: Rohit Bhaskar
+photo: /assets/img/uploads/author_tanay.png
+name: tanay-shah
+display_name: Tanay Shah
 position: Growth Hacker & Marketing Wiz.
 bio: Popularly known as the engineer who runs the marketing department.
 github_username: rohitbhaskar

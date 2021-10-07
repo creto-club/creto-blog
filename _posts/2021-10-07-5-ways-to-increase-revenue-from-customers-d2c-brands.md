@@ -11,7 +11,7 @@ image: >-
 #   /assets/img/posts/post_21-10-03_referral-marketing-for-indian-brands_optimized.jpg
 category: blog
 tags:
-author: dhruvturakhia
+author: dhruv-turakhia
 paginate: false
 ---
 
