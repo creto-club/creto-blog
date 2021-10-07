@@ -35,7 +35,7 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
     <p style="align-self: center; font-size: 16px;">Our ML guru. He can smell trends... vectors away</p>
   </div>
 
-  <div style="display: flex; justify-content: space-between"">
+  <div style="display: flex; justify-content: space-between">
     <div style="display:flex">
       <img class="img-rounded" src="/assets/img/uploads/author_dhruv.jpg" title="Dhruv Turakhia" width="200px" style="margin-bottom: 10px">
       <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: center; flex-grow: 2;">Dhruv Turakhia</p>
@@ -43,7 +43,7 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
     <p style="align-self: center; font-size: 16px;">Design, UX Obsession and everything in between. He also likes ramen</p>
   </div>
 
-  <div style="display: flex; justify-content: space-between"">
+  <div style="display: flex; justify-content: space-between">
     <div style="display:flex">
       <img class="img-rounded" src="/assets/img/uploads/author_himanshu.jpg" title="Dhruv Turakhia" width="200px" style="margin-bottom: 10px">
       <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: center; flex-grow: 2;">Himanshu Maheshwari</p>
