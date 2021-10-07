@@ -20,7 +20,7 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
 
 <div class="post-content" style="margin: 1.8125rem auto 0; max-width: 50rem;">
   <div style="display: flex; justify-content: space-between">
-    <div style="display: flex; flex-direction: row">
+    <div style="display: flex; flex-direction: column">
       <img class="img-rounded" src="/assets/img/uploads/author_rohit.png" title="Rohit Bhaskar" width="200px" style="margin-bottom: 10px">
       <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: left; flex-grow: 2;">Rohit Bhaskar</p>
     </div>
@@ -28,7 +28,7 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
   </div>
 
   <div style="display: flex; justify-content: space-between">
-    <div style="display:flex; flex-direction: row">
+    <div style="display:flex; flex-direction: column">
       <img class="img-rounded" src="/assets/img/uploads/author_tanay.jpg" title="Tanay Shah" width="200px" style="margin-bottom: 10px">
       <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: left; flex-grow: 2;">Tanay Shah</p>
     </div>
@@ -36,7 +36,7 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
   </div>
 
   <div style="display: flex; justify-content: space-between">
-    <div style="display:flex; flex-direction: row">
+    <div style="display:flex; flex-direction: column">
       <img class="img-rounded" src="/assets/img/uploads/author_dhruv.jpg" title="Dhruv Turakhia" width="200px" style="margin-bottom: 10px">
       <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: left; flex-grow: 2;">Dhruv Turakhia</p>
     </div>
@@ -44,7 +44,7 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
   </div>
 
   <div style="display: flex; justify-content: space-between">
-    <div style="display:flex; flex-direction: row">
+    <div style="display:flex; flex-direction: column">
       <img class="img-rounded" src="/assets/img/uploads/author_himanshu.jpg" title="Dhruv Turakhia" width="200px" style="margin-bottom: 10px">
       <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: left; flex-grow: 2;">Himanshu Maheshwari</p>
     </div>
