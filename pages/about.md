@@ -18,10 +18,35 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
 
 ### The Team
 
-<div style="display: flex; flex-direction: row; align-items: center"><img class="img-rounded" src="/assets/img/uploads/author_rohit.png" title="Rohit Bhaskar" width="200"> <p style="align-text: center">Growth Hacker and Marketing Wiz. More famously known as the engineer who runs the marketing dept</p></div>
+<div style="display: flex;">
+  <div style="margin-right: 10%">
+    <img class="img-rounded" src="/assets/img/uploads/author_rohit.png" title="Rohit Bhaskar" width="200px" style="margin-bottom: 5%">
+    <p style="font-weight: 600; font-size: 16px;">Rohit Bhaskar</p>
+  </div>
+  <p style="align-self: center; font-size: 16px;">Growth Hacker and Marketing Wiz. More famously known as the engineer who runs the marketing dept</p>
+</div>
 
-<img class="img-rounded" src="/assets/img/uploads/author_tanay.jpg" title="Tanay Shah" width="200"> *Our ML guru. He can smell trends... vectors away*
+<div style="display: flex;">
+  <div style="margin-right: 10%">
+    <img class="img-rounded" src="/assets/img/uploads/author_tanay.jpg" title="Tanay Shah" width="200px" style="margin-bottom: 5%">
+    <p style="font-weight: 600; font-size: 16px;">Tanay Shah</p>
+  </div>
+  <p style="align-self: center; font-size: 16px;">Our ML guru. He can smell trends... vectors away</p>
+</div>
 
-<img class="img-rounded" src="/assets/img/uploads/author_dhruv.jpg" title="Dhruv Turakhia" width="200"> *Design, UX Obsession and everything in between. He also likes ramen*
+<div style="display: flex;">
+  <div style="margin-right: 10%">
+    <img class="img-rounded" src="/assets/img/uploads/author_dhruv.jpg" title="Dhruv Turakhia" width="200px" style="margin-bottom: 5%">
+    <p style="font-weight: 600; font-size: 16px;">Dhruv Turakhia</p>
+  </div>
+  <p style="align-self: center; font-size: 16px;">Design, UX Obsession and everything in between. He also likes ramen</p>
+</div>
 
-<img class="img-rounded" src="/assets/img/uploads/author_himanshu.jpg" title="Rohit Bhaskar" width="200"> *The Tech Wonder, he can develop and deploy your app in…. Oh it’s already deployed. :D*
+<div style="display: flex;">
+  <div style="margin-right: 10%">
+    <img class="img-rounded" src="/assets/img/uploads/author_himanshu.jpg" title="Dhruv Turakhia" width="200px" style="margin-bottom: 5%">
+    <p style="font-weight: 600; font-size: 16px;">Himanshu Maheshwari</p>
+  </div>
+  <p style="align-self: center; font-size: 16px;">The Tech Wonder, he can develop and deploy your app in…. Oh it’s already deployed. :D
+  </p>
+</div>
