@@ -19,36 +19,24 @@ This blog is our way to give back to the ever-growing D2C community. To help bra
 ### The Team
 
 <div class="post-content" style="margin: 1.8125rem auto 0; max-width: 50rem;">
-  <div style="display: flex; justify-content: space-between">
-    <div style="display: flex; flex-direction: row">
-      <img class="img-rounded" src="/assets/img/uploads/author_rohit.png" title="Rohit Bhaskar" width="200px" style="margin-bottom: 10px">
-      <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: left; flex-grow: 2;">Rohit Bhaskar</p>
-    </div>
-    <p style="align-self: center; font-size: 16px; ">Growth Hacker and Marketing Wiz. More famously known as the engineer who runs the marketing dept</p>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 40px;">
+    <img class="img-rounded" src="/assets/img/uploads/author_rohit.png" title="Rohit Bhaskar" width="200px" height="200px" style="margin-bottom: 10px; max-width: 200px; margin-right: 25px;">
+    <p style="align-self: center; font-size: 16px; text-align: left; margin-left: 0px"><span style="font-weight: 600;">Rohit Bhaskar: </span>Growth Hacker and Marketing Wiz. More famously known as the engineer who runs the marketing dept</p>
   </div>
 
-  <div style="display: flex; justify-content: space-between">
-    <div style="display:flex; flex-direction: row">
-      <img class="img-rounded" src="/assets/img/uploads/author_tanay.jpg" title="Tanay Shah" width="200px" style="margin-bottom: 10px">
-      <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: left; flex-grow: 2;">Tanay Shah</p>
-    </div>
-    <p style="align-self: center; font-size: 16px;">Our ML guru. He can smell trends... vectors away</p>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 40px">
+    <img class="img-rounded" src="/assets/img/uploads/author_tanay.jpg" title="Tanay Shah" width="200px" height="200px" style="margin-bottom: 10px; max-width: 200px; margin-right: 25px; margin-left: 0px">
+    <p style="align-self: center; font-size: 16px; text-align: left; margin-left: 0px"><span style="font-weight: 600;">Tanay Shah: </span>Our ML guru. He can smell trends... vectors away</p>
   </div>
 
-  <div style="display: flex; justify-content: space-between">
-    <div style="display:flex; flex-direction: row">
-      <img class="img-rounded" src="/assets/img/uploads/author_dhruv.jpg" title="Dhruv Turakhia" width="200px" style="margin-bottom: 10px">
-      <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: left; flex-grow: 2;">Dhruv Turakhia</p>
-    </div>
-    <p style="align-self: center; font-size: 16px;">Design, UX Obsession and everything in between. He also likes ramen</p>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 40px">
+    <img class="img-rounded" src="/assets/img/uploads/author_dhruv.jpg" title="Dhruv Turakhia" width="200px" height="200px" style="margin-bottom: 10px; max-width: 200px; margin-right: 25px;">
+    <p style="align-self: center; font-size: 16px; text-align: left; margin-left: 0px"><span style="font-weight: 600;">Dhruv Turakhia: </span>Design, UX Obsession and everything in between. He also likes ramen</p>
   </div>
 
-  <div style="display: flex; justify-content: space-between">
-    <div style="display:flex; flex-direction: row">
-      <img class="img-rounded" src="/assets/img/uploads/author_himanshu.jpg" title="Dhruv Turakhia" width="200px" style="margin-bottom: 10px">
-      <p style="font-weight: 600; font-size: 16px; text-align: center; margin-top: 0px; align-text: left; flex-grow: 2;">Himanshu Maheshwari</p>
-    </div>
-    <p style="align-self: center; font-size: 16px;">The Tech Wonder, he can develop and deploy your app in…. Oh it’s already deployed. :D
+  <div style="display: flex; justify-content: space-between; margin-bottom: 40px">
+    <img class="img-rounded" src="/assets/img/uploads/author_himanshu.jpg" title="Dhruv Turakhia" width="200px" height="200px" style="margin-bottom: 10px; max-width: 200px; margin-right: 25px;">
+    <p style="align-self: center; font-size: 16px; text-align: left; margin-left: 0px"><span style="font-weight: 600;">Himanshu Maheshwari: </span>The Tech Wonder, he can develop and deploy your app in…. Oh it’s already deployed. :D
     </p>
   </div>
 </div>
