@@ -202,13 +202,25 @@
     
     
         <url>
-            <loc>https://blog.creto.club/authors/dhruvturakhia/</loc>
+            <loc>https://blog.creto.club/authors/dhruv-turakhia/</loc>
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>
     
         <url>
-            <loc>https://blog.creto.club/authors/rohitbhaskar/</loc>
+            <loc>https://blog.creto.club/authors/himanshu-maheshwari/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+        <url>
+            <loc>https://blog.creto.club/authors/rohit-bhaskar/</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
+    
+        <url>
+            <loc>https://blog.creto.club/authors/tanay-shah/</loc>
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>
