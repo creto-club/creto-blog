@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/author_himanshu.png
+photo: /assets/img/uploads/author_himanshu.jpg
 name: himanshu-maheshwari
 display_name: Himanshu Maheshwari
 position: Growth Hacker & Marketing Wiz.

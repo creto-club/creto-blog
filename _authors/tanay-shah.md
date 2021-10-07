@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/author_tanay.png
+photo: /assets/img/uploads/author_tanay.jpg
 name: tanay-shah
 display_name: Tanay Shah
 position: Growth Hacker & Marketing Wiz.
