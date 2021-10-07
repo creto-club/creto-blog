@@ -107,7 +107,7 @@ Instead, you should analyze how the campaign is going, which channels people are
 
 <br>
 ## So, what's next
-If you had any questions or needed personalized tips on how to improve your referral program, just drop me a link to your website on rohit@creto.club and I'll do what I can to help.
+If you had any questions or needed personalized tips on how to improve your referral program, just drop me a link to your website on [rohit@creto.club](mailto@rohit@creto.club) and I'll do what I can to help.
 
 If you found this useful, subscribe by dropping your email below and we'll send more great content your way :)
 

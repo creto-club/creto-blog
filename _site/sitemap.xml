@@ -187,14 +187,7 @@
     
     
         <url>
-            <loc>http://localhost:4000/increase-customer-revenue-d2c-brands/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2021-10-04</lastmod>
-        </url>
-    
-        <url>
-            <loc>http://localhost:4000/referral-marketing-for-indian-brands/</loc>
+            <loc>http://localhost:4000/5-simple-ways-to-make-your-referral-marketing-program-stand-out/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2021-10-03</lastmod>
