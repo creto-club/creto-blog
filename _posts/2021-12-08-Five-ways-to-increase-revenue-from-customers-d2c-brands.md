@@ -1,5 +1,5 @@
 ---
-date: 2021-10-29T17:30:00.000Z
+date: 2021-12-08T17:30:00.000Z
 layout: post
 title: '5 ways to increase revenue from your existing customers: D2C Brands'
 subtitle: 'Simple yet actionable tips to get your customers to refer you.'
@@ -24,6 +24,7 @@ Many businesses tend to overlook is the value that existing customers can drive 
 I will be going through 5 of such techniques to add to your arsenal. I will start with the very subtle ones
 
 <br>
+
 ## Upselling
 
 Upselling is a practice widely used in many industries with the intention to get your customer pay for a relatively higher product. You can think of upselling as an opportunity to provide extra value to the customer for the product of their liking. A common practice is to show side by side comparison of the regular product/service vs all glorious high-end product, which might get the customer to *FOMO*. 
