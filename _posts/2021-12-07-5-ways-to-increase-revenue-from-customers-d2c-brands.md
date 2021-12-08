@@ -1,5 +1,5 @@
 ---
-date: 2021-12-08T17:30:00.000Z
+date: 2021-12-07T17:30:00.000Z
 layout: post
 title: '5 ways to increase revenue from your existing customers: D2C Brands'
 subtitle: 'Simple yet actionable tips to get your customers to refer you.'
